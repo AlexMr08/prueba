@@ -38,6 +38,8 @@ ehthumbs.db
 Thumbs.db
 
 privado/
+
 logs/
 !public/Public.txt
+
 assets/
